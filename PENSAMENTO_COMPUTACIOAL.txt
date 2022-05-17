@@ -1,0 +1,392 @@
+
+		PENSAMENTO COMPUTACIONAL
+
+
+	Obejtivo desta aula e detalhar cada um dos
+ pilar.
+
+	E preciso coompreender como executar cada 
+etapa de um pensamento computacional.
+
+
+		DECOMPOSIÇÃO
+
+
+	- É O PRIMEIRO PASSO DA RESOLUÇAO DE
+ PROBLEMA DENTRO DO CONCEITO DE PENSAMENTO 
+COMPUTACIONAL.
+
+
+- DADO UM PROBLEMA DEVEMOS FRACMENTA-LO EM PROBLEMAS
+ MENORES PARA FACILITAR A RESOLUÇÃO DO MEMOS
+
+
+	- ESTRATÉGIA
+
+	- Análise primeira etapa
+
+- Processo de quebrar e determinar as partes
+ menores e gerenciáveis.
+
+	- Síntese segunda etapa
+
+- Combinar os elementos recompondo o problema
+ original.
+
+- E um processo de reconstrução do problema original
+ de forma correta sem perder sua composição.
+
+- Ordem de execução de trarefas menores.
+
+Sequêncial: as tarefas sao executadas em fila.
+
+Paralelo: As tarefas podem ocorre no mesmo tempo 
+assim ganhando tempo, recursos, custo, eficencia e
+ tempo de execução.
+
+
+Não basta nao aplicar a ferramenta 
+desenvover a decomposição.
+
+Deve compreender e desenvolver um pensamento 
+computacional para fazer a decomposicao 
+por si mesmo, não usando exemplos para entender 
+como decompor sozinho, assim entendendo o processo 
+para e até propor maneira de decompor o problema.
+
+	- Como decompor
+
+Deve deixar o problema principal em 2 plano e focar
+nos componetes .
+
+Verficar quais aspectos sao fundamentais para resolver
+ o problema.
+
+Separa os componete e verificar se a dependencia
+ entre eles  e quai sao suas caracteristica.
+
+Depois de coletar e anlisar os dados deve-se agregrar
+estes dados, caracteristica e resultados dos problemas
+ menores de forma  que recomponha o problema maior
+de forma correta. 
+
+
+		RECONHECIMENTO DE PADRÕES
+
+
+- Modelo base
+- Estrutura invariante
+- Repetição
+
+
+- Reconhecimento de padrões e a forma de indentificar
+ e determinar o modelo  através da similaredade e da 
+diferença.
+
+- Por que determinar padrões:
+
+E a maneira de gerenelizar com objetivo de obter 
+resolução para problemas diferentes.
+
+
+- Classificação de objetos.
+
+
+Nós classificamos objetos desconhecidos atraves de 
+classes, caracterisca e aspectos que conhecemos.
+
+
+E isso vai variar muito depedendo do dominio e do 
+tipo de objeto que estamos tratamos.
+
+	- Como o humanos reconhece os padrões:
+
+- Pelo grau de similaridade.
+
+- Grupos conhecidos X objeto desconhecidos.
+
+- Pela Comparação.
+
+	- Como o computador reconhece os padrões
+
+- Representação de atributos:
+
+Primeiro temos que apresentar os atributos e dar dados ao 
+computador para que ele entenda qual é aquue objeto.
+
+- Aprendizado - conceito associado ao objeto:
+
+Passar toda a informação para o cumputador entender todo conveito;
+
+- Armazenar dados:
+
+Os dados deve estar armazenados para o computador intentificar 
+e processar a classificação e categorização do objeto
+
+- Regras de decisão:
+
+O desenvolvedor vai determina qual sao esta regras para o 
+computador tomar decisão.
+
+
+		ABSTRAÇÃO
+
+
+- Generalização / Abstração
+
+	ABSTRAIR 
+
+- Observar um ou mais elementos avaliando caracteristica e 
+propriedades em separado
+
+	ABSTRAÇÃO
+
+- Processo intelectual de isolamento de um objeto da realide
+
+	GENERALIZAR
+
+- Tonar-se geral, mais amplo extensão
+
+
+	GENERALIZAAÇÃO
+
+- Na lógica, é a operação intelectual que consiste em reunir 
+numa classe geral, um conjunto de seres ou fenômenos similares. 
+
+
+
+- Como classificar os dados
+
+Características
+
+Pontos essenciais
+
+- Representação de dados
+
+Focar nos pontos essenciais
+
+
+		ALGORITMOS
+
+	PROCESSAMENTO DE DADOS 
+
+O computador recebe, manipula e armazena dados.
+
+Processo de resolução de problemas "step by setp" 
+( PASSO A PASSO ) utilizando instruções.
+
+Este algoritmo tem que ser entendido pela maquina e 
+pelo humano.
+
+	DESENVOLVIMENTO DO PRAGRAMA
+
+
+- Analises
+
+Estudo e definição dos dados de entrada e saída.
+
+- Algoritmo
+
+Descreve o problema por meio de ferramentas 
+narrativas, fluxograma, ou pseudocódigo.
+
+- Codificação 
+
+O algoritmo é codificado de acordo com a linguagem de 
+programação escolhida.
+
+
+
+	-ALGORITMO É 
+
+- Sequência de passo com objetivo definido
+
+Dados as intruções tenho um fim, onde eu quero 
+chegar. 
+
+- Execução de tarefas especificas
+
+As tarefa deve ser bem definidas porque o computador
+so aceita dados objetivos
+  
+- Conjunto de operações que resultam em uma sucessao 
+de finita de ações
+
+Tem uma sequência de passos, execuções de trarefas 
+especificas
+
+		COMO CONSTRUIR UM ALGORITMO
+
+
+- Compreenção do problema
+
+Primeiro tem que entender o problema que voce vai
+solucionar, analisando os pontos mais importantes 
+deixando de lados aqueles dados menos explesivos que 
+nao vao influência nos resuldatos.
+
+- Definição dados de entrada.
+
+Fornecer os dados inerente ao conexto do deu 
+problema.
+
+- Definir processamento.
+
+Quais sao os calculo e operações se a algum 
+timpo de restriçoes neste processo que possa ser 
+trato e assim procegui para c
+
+- Definir dados de saída.
+
+E uma forma de verificar se o resultado esta correto
+
+
+- Utilizar um método de contrução.
+
+Deve escolher um tipo de estrutura para definir o 
+algoritmo, 
+
+- Teste e diagnóstico.
+
+Deve ser feito para descobrir erros e apeifeçoamento 
+do código
+
+		CONSTRUÇÃO DE ALGORITMOS
+
+Metodos de contrução de algoritmos
+
+- Narrativa
+
+O mais facil porque utiliza a linguagem natural, mas 
+o problema que pode haver dupla intrepretação.
+
+- Fluxograma
+
+E de simples alinhamento, mas tem que ter 
+conhecimento prévio para facilitar o desenvolvimento. 
+
+- Pseudo codigo
+
+Posue regras bem definidas, apesar de utilizar a 
+linguagem natural nao tem margem para erros
+
+Algo mais parecido com a codificação.
+
+
+		ESTUDO DE CASO
+
+
+	CASO 1
+
+- Pessoa Perdida na floresta.
+
+Como resolver o problema utilizando o pensamento 
+computacional
+
+
+- Identificar os mecanismo
+- Recursoso comum
+- Detalhes mais importantes
+
+
+SOBREVIVÊNCIA:  1 - Agua
+
+		2 - Comida
+
+		3 - Abrigo
+
+
+
+
+
+		1 - Água	Chuva
+
+		1 - Água	Nascente 	Fogo
+
+
+
+
+SOBREVIVÊNCIA:	2 - Comida 	Coletar
+		
+		2 - Comida	Caçar 		Fogo
+ 		
+
+		
+		3 - Abrigo	Localização 	Mapa
+		
+		3 - Abrigo	Proteção	Fogo
+		
+				Proteção	Lança
+
+		3 - 		Quente e seco	Fogo
+
+						
+
+Decomposição
+Reconhecimento de padrões
+Abstração
+
+
+Preparando a Comida
+
+Pegar o peixe
+
+Colocar água na panela
+
+Fever água
+
+Limpar o peixe
+
+Fazer cozido
+
+Assar o file
+
+		
+		REFERÊNCIAS:
+		
+
+	COMPUTIONAL THIKIING
+
+- https://www.cs.cmu.edu/~CompThink/resources/TheLinkWing.pdf
+
+- https://ubiquity.acm.org/article.cfm?id=1922682
+
+- https://www.youtube.com/watch?v=YVEUOHw3Qb8
+
+
+	PADRÕES:
+
+https://www.cin.ufpe.br/~if114/Monografias/Reconhecimento/
+
+https://web.fe.up.pt/~jmsa/recpad/index.htm
+
+https://www.teses.usp.br/teses/disponiveis/18/18133/tde-10072006-002119/publico/Capitulo_2_mestrado.pdf
+
+https://www.vision.ime.usp.br/~teo/publications/dissertacao/node9.html
+
+https://www.periodicos.furg.br/vetor/article/view/3363/3811
+
+https://www.youtube.com/watch?v=HtSuA8OQTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
+
+( Algoritmos - MIT )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

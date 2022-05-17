@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Agnaldo"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-04-25 05:30:48 "/>
+        <attribute name="created" value="QWduYWxkbztERVNLVE9QLVFJUTExSUE7MjAyMi0wNC0yMDsiMDE6NDU6MjUgIjsyOTMy"/>
+        <attribute name="edited" value="QWduYWxkbztERVNLVE9QLVFJUTExSUE7MjAyMi0wNC0yNTsiMDU6MzA6NDggIjs1OzMwNTI="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="vendajan, vendafev, vendamar, vendaabr, media" type="Real" array="False" size=""/>
+            <declare name="nome" type="String" array="False" size=""/>
+            <output expression="&quot;Qual o seu nome: &quot;" newline="True"/>
+            <input variable="nome"/>
+            <output expression="&quot;Quando foi a venda de Janeiro:&quot;" newline="True"/>
+            <input variable="vendajan"/>
+            <output expression="&quot;Quando foi a venda de Fevereiro:&quot;" newline="True"/>
+            <input variable="vendafev"/>
+            <output expression="&quot;Quando foi a venda de Mar&#231;o:&quot;" newline="True"/>
+            <input variable="vendamar"/>
+            <output expression="&quot;Quando foi a venda de Abril:&quot;" newline="True"/>
+            <input variable="vendaabr"/>
+            <assign variable="media" expression="(vendajan+vendafev+vendamar+vendaabr)/4"/>
+            <if expression="media&gt;=5000">
+                <then>
+                    <output expression="&quot;Seu nome &#233;  &quot;&amp;nome&amp; &quot;  sua media foi &quot;&amp;media&amp; &quot;  Paraabems voc&#234; receberar 10% de bonus.&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Seu nome &#233;  &quot;&amp;nome&amp; &quot;  sua media foi &quot;&amp;media&amp; &quot;  Voc&#234; receberar 3% de bonus.&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

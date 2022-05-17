@@ -1,0 +1,447 @@
+
+		LÓGICA DE PROGRAMAÇÃO
+
+		
+		Prof: Denilson Bonatti
+		      Tech lead
+		      Digital innovantion One
+
+
+ - - - - - - - - - - - Aula 1 - - - - - - - - - - - - -	
+
+
+	- Entendendo o que é Lógica
+
+
+	- Objetivos da Aula 1
+
+
+1 - Entender o que é lógica e lõgica de programação.
+
+2 - Entender e criar um mapa mental para resolução
+de problemas.
+
+3 - O que é uma abstração.
+	
+	- Requisitos Básicos
+
+- Boa vontade e para quem gosta um pouco de café.
+
+	- Programar é digitar códigos
+
+- Programar é resolver problemas
+
+	- O que é lógica
+
+- "coerência de raciocinio, de ideias"
+
+- "sequência coerente, regular e necessária de 
+acontecimentos, coisas".
+
+	- Lõgica de programação 
+
+- significa apenas contextualiza a lógica na 
+programação de computadores, buscando a melhor 
+sequência de ações para solucionar uma problema.
+
+	- Metacognição
+
+"Pensar como você pensa"
+
+	- Abstração
+
+- "Abstração é a habilidade de concentrar nos 
+aspectos essencias de um contexto qualquer, ignorando 
+caracteristicas menos importantes ou acidentais"
+	
+
+- - - - - - - - - - - Aula 2 - - - - - - - - - - - - -	
+
+
+	- O que saõ algortmos e pseudocódigo
+
+
+	- Objetivos da Aula 2
+
+
+1 - Entender o que é um algoritmo
+
+2- Entender o que um pseudocódigo
+
+	= O que é um algoritmo
+
+- "é uma sequência de passos que resolve um problema"
+
+
+ - Exemplo:
+
+    Início do dia
+	Acordei
+	Levantei da cama 
+	Troquei de roupa
+	Escovei os dentes
+	Fui a padaria
+	Tomar café
+	Escovei os dentes
+	Fui ao trabalho
+     Fim do dia
+     
+	O que é um pseudocódigo
+
+- "É uma forma genérica de escrever um algoritmo, 
+utilizando uma linguagem simples (nativa, ou seja, 
+em português a quem o escreve, de forma a ser 
+entendida por qualquer pessoa)"
+
+- Exemplo jogo de lógica
+
+- https://studio.code.org/s/mc/stage/1/puzzie/1
+
+- https://www.proprofs.com/games/wolf-sheep-and-
+cabbage)
+
+     	- Exercício final
+
+1 - Crie um algoratimo do seu dia 
+
+    Início do dia
+	Acordei
+	Levantei da cama 
+	Troquei de roupa
+	Escovei os dentes
+	Sair para o trabalho
+	Fui a padaria	
+	Tomei café
+	Trabalhei
+	Vim para o almoço
+	Tratei das galinhas
+	Sair para para trabalho novamente
+	Trabalhei
+	Voltei para casa
+	Tomar café
+	Estudar 
+	Dormi
+    Fim do dia
+
+2 - Abra o site
+
+https://studio.code.org/s/mc/stage/1/puzzie/1 e tente
+resolver todos os probeçams em menos de uma hota
+
+Resolvidos em 33 minutos
+
+
+- - - - - - - - - - - Aula 3 - - - - - - - - - - - - -	
+ 
+
+	- Aprendendo fluxograma, variáveis e constantes
+
+
+	- Objetivos da Aula 3
+
+
+1 - Entender o que é um fluxograma
+
+2 - Aprender sobre variáveis constantes e tipos de
+dados 
+
+	- Fluxograma
+
+Definição 1:
+
+- "Fluxograma é uam ferramenta utilizadda para 
+repesentar graficamente o algoritmo, isto é, a 
+sequência lógica e coerente do fluxo de dados". 
+
+Definição 2: 
+
+- "Um fluxograma é um tipo de diagrama e pode ser 
+entendido como uma representação esquemática de um 
+processo. Podemos entendê-lo, na prática, como a 
+documentação dos passos necessários para a execução 
+de um processoo qualquer".
+
+ - Exemplo 1:
+
+	Inícío 
+	  ↓
+	Entrada
+	  ↓
+	Procesamento
+	  ↓
+	Saída
+ 	  ↓
+	 Fim
+
+ - Exemplo 2:
+
+	Inícío 
+	  ↓
+	Pegar a escova de dentes
+	  ↓
+	Pegar a pasta de dentes
+	  ↓
+	Colocar pasta de dentes sobres a escova
+	  ↓
+	Fim
+
+ - Exemplo 3:
+
+	Inícío 
+	  ↓
+	Nota1, Nota2, Nota3, Nota4
+ 	  ↓
+	Media = (Nota1, Nota2, Nota3, Nota4)/4
+	  ↓
+	"Sua média é:"
+	  ↓
+	Fim
+
+ - Exemplo 4:
+
+	Principal 
+	  ↓
+	Nota1, Nota2, Nota3, Nota4, media (real)
+	  ↓
+	Entrada nota1
+	  ↓
+	Entrada nota2:"
+	  ↓
+	Entrada nota3
+	  ↓
+	Entrada nota4
+
+	Media = (Nota1, Nota2, Nota3, Nota4)/4
+	  ↓
+	Saída média
+	  ↓
+	Fim
+
+		
+	- Variáveis e constantes
+
+
+Definição 1:
+
+-"Na programação, uma varável é um objeto ( Uma 
+posição, frequentemente localizada na memória  capaz
+de reter e representar um valor ou expressão."
+
+Definição 2:
+
+ -"Uma variável é uma espaço na menmória do computador
+destinado a uma dado que é alterado durante a 
+execução do algoritmo".
+
+
+	- Declaração de variáveis
+
+      INÍCIO
+	DECLARA nota1: número
+	DECLARA nota2: número
+	DECLARA nota3: número
+	DECLARA nota4: número
+	DECLARA meida: número
+	LEIA (nota1)
+	LEIA (nota2)
+	LEIA (nota3)
+	LEIA (nota4)
+	media=(nota1+nota1) (nota1) (nota1)
+	IMPRIMIR (media)
+      FiM
+
+- As variáveis e as constante poden ser classificadas basicamente 
+de quatro tipos;
+
+	Numéricas, Caracteres, Alfanuméricas ou Lógicas, 	
+
+	
+	- Declaração de constantes
+
+
+ - As constabtes são valores imutáveis e não são alterados 
+durante a vida útil do programa.
+
+
+      INÍCIO
+	DECLARA pi = 3,14 (constrantes)
+	DECLARA raio (variável)
+      FiM
+
+ - Exemplo:
+
+	Principal 
+	  ↓
+	Nota1, Nota2, Nota3, Nota4, media (real)
+	  ↓
+	Entrada nota1
+	  ↓
+	Entrada nota2:"
+	  ↓
+	Entrada nota3
+	  ↓
+	Entrada nota4
+
+	Media = (Nota1, Nota2, Nota3, Nota4)/4
+	  ↓
+	Saída média
+	  ↓
+	Fim
+
+
+		- Aula 4
+
+
+	- Tomadas de decisões e expressões
+
+
+	- Objetivos da Aula 4
+
+
+ 1 - Conhecer as espressões aritméticas, literais e as expressões
+relacionais
+
+ 2 - Entender a aplicar as tomadas de decisão em um algoritmo
+
+
+
+ - Espressões aritméticas:
+
+	"São expressões que utilizam operadores aritméticos e 
+funções aritméticas envolvendo constantes e variáveis"
+
+
+Exmplo:
+
+ - 50+50 = 100 (vai exibir 50+50 = 100)
+
+ - total +50 (considerando que total e 100 vai ser exibido 
+100+50 = 150) 
+
+
+
+	Soma		+
+
+	Subtração	-
+
+	Multiplicação	*
+
+	Divisão		/
+
+	Pontenciação	^
+ 
+	Porcentagem	%
+
+ - OBS: Existem outros sinais este são alguns exemplos
+
+
+
+ - Espressões literais:
+
+	"São expressões com constantes e ou variáveis que tem como 
+resultado valores literais. Iremos utilizar as expressões literais 
+na atribuição de valor para uma variável ou constante.
+
+Nome="josé da Silva"
+Nome ← "josé da Silva"
+media= (nota1+nota2+nota3+nota4)/4
+
+OBS: em alguns casos o sinal de igual pode ser a seta para a 
+esquerda
+
+
+Variáveis	Comando de	Procedimento
+		atribuição /	
+		operação
+
+A, B, C		A=2		Armazenar o valor 2 na variável A
+		
+		B=A+3		Somar o valor de A (2) com 3 e 
+				armazenar em B (5)
+
+		C=A+B		Somar o valor de A (2) e o valor 
+				de B (5) e armazenar em C (7)
+
+	Principal
+	    ↓
+	Inteiro a,b,c
+	    ↓
+	a = 2
+	    ↓
+	b = a+3
+	    ↓
+	c = a+b
+	    ↓
+	saida a
+	    ↓
+	saida b
+	    ↓
+	saida c
+	    ↓
+	Fim
+
+
+ - Espressões literais:
+
+	"são expressões compostas por outras expressões ou variáves
+numéricas com operadores relacionais. As expressões relacionais 
+retornam valores lógicos (verdadeiro / falso"
+
+
+
+
+
+
+  >		Maior que 		X > Y	X é maior que y?
+
+  >=		Maior ou igual		Xé maior ou igual a a Y?	
+
+  <		Menor que		X menor que Y?		
+	
+  >=		Menor ou igual		X é menor Y
+
+  ==		Igualdade		
+
+  != 		Diferente de			
+
+
+
+
+
+		- Aula 5
+
+
+	- Como utilizar a concatenação
+
+
+	- Objetivos da Aula 5
+
+ - Aprender o que é concatenação e como utilizá-la e como utilizar 
+na pratica, qual a função partica da concatenação 
+
+
+
+	- Definição
+
+ - Concatenação é um termo usado em computação para designar a 
+operação de unir o conteúdo de duas string".
+
+	* String é uma sequência de caracteres
+
+ - Agrupamento de duas ou mais células que, incluindo fórmulas, 
+textos ou outras informações contida no seu interior, dá origem a 
+um único resultado.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

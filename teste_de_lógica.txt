@@ -1,0 +1,452 @@
+
+
+Questão 01
+Marcelo e Paula são os pais de Gabriela. A família quer viajar nas
+ férias de janeiro. Marcelo conseguiu tirar suas férias na fábrica 
+do dia 5 ao dia 28. Paula conseguiu marcar suas férias na 
+Universidade do dia 2 a 30. As férias de Gabriela na escola vão 
+de 1 a 25.
+Assinale a alternativa que indica durante quantos dias a família 
+poderá viajar sem faltar às suas obrigações. *
+
+UTFPR - 2016
+A
+18
+B
+19
+C
+20
+D
+21
+E
+22
+
+-----------------------------------------------------
+
+Questão 02
+Lia precisava comprar uma passagem aérea e todos os dias acessava o 
+site da companhia aérea procurando o melhor valor. No dia 25 de março, 
+o valor da passagem era de R$1.200,00; no dia 26 de março, a passagem 
+estava com o valor aumentado em 20%. Ela resolveu fazer a compra no 
+dia 27 de março, pois o valor da passagem estava 20% menor em relação 
+ao dia anterior. Assinale a alternativa que indica o preço que Lia 
+pagou pela passagem. *
+
+UTFPR - 2018
+A
+R$ 1.152,00
+B
+R$ 1.120,00
+C
+R$ 960,00
+D
+R$ 1.200,00
+E
+R$ 1.146,00
+
+--------------------------------------------------------------
+
+Questão 03
+Um pedreiro construiu um muro em 3 dias. No primeiro dia 
+construiu 2/5 do muro; no segundo dia construiu 3/5 do 
+restante do muro; finalizou a construção no terceiro dia, 
+construindo os 12m restantes. Assinale a alternativa que 
+indica o tamanho total do muro. *
+
+?????????????????????
+
+Questão 04
+Considere a frase:
+Se Marco treina, então ele vence a competição.
+A frase equivalente a ela é: *
+
+UTFPR - 2017
+A
+Se Marco não treina, então vence a competição.
+B
+Se Marco não treina, então não vence a competição.
+C
+Marco treina ou não vence a competição.
+D
+Marco treina se e somente se vence a competição.
+E
+Marco não treina ou vence a competição.
+
+----------------------------------------------------------------
+
+Questão 05
+Assinale a alternativa que apresenta quantos números de 4 algarismos 
+maiores que 5000 pode-se formar, com os algarismos 0, 1, 2, 4, 7 e 8. *
+
+UTFPR-2017
+A
+120
+B
+216
+C
+240
+D
+432
+E
+1080
+
+-----------------------------------------------------------------
+
+Questão 06
+Em um estacionamento cabem 30 ônibus ou 50 carros. O número de ônibus 
+que ainda cabem no estacionamento, considerando que 25 carros já estão 
+dentro, é: *
+
+UTFPR-2015
+A
+15
+B
+16
+C
+17
+D
+18
+E
+20
+
+-----------------------------------------------------------------
+
+Questão 07
+A próxima letra na sequência Z, W, T, Q, N, ... é: *
+
+UTFPR-2015
+A
+H.
+B
+I.
+C
+J.
+D
+K.
+E
+L.
+
+---------------------------------------------------------------
+
+Questão 08
+Júlio tem hoje 22 anos. Três anos atrás seu irmão, Pedro, tinha 2 
+anos. Marque a alternativa que apresenta o número que corresponde 
+a daqui a quantos anos a idade de Júlio será o dobro da idade de Pedro. *
+
+UTFPR-2015
+A
+11.
+B
+12.
+C
+13.
+D
+14.
+E
+15.
+
+---------------------------------------------------------------
+
+Questão 09
+Um supermercado fez uma pesquisa com seus clientes, no período de uma 
+semana, e constatou que 180 pessoas compraram feijão da marca A e 220 
+compraram feijão da marca B. Assinale a alternativa que apresenta o 
+número de pessoas que compraram feijão das duas marcas, sendo que 
+foram pesquisadas 350 pessoas e todas elas compraram feijão neste 
+período. *
+
+UTFPR-2017
+A
+50
+B
+70
+C
+110
+D
+30
+E
+60
+
+-------------------------------------------------------------
+
+Questão 10
+Considere um grupo de 28 pessoas. Assinale a alternativa que apresenta 
+o número de pessoas, no mínimo, que devem ser acrescidas ao grupo para 
+que se tenha pelo menos 7 pessoas, fazendo aniversário no mesmo mês. *
+
+UTFPR-2017
+A
+1
+B
+10
+C
+23
+D
+45
+E
+56
+
+?????????????????
+
+----------------------------------------------------------------
+
+Questão 11
+Ao fazer uma pesquisa em sua sala de aula, Mariana chegou ao seguinte 
+resultado: 12 alunos gostam de Português, 15 alunos gostam de Matemática, 
+6 gostam das duas matérias e 7 não responderam. Assinale a alternativa 
+que apresenta o número de alunos na sala de aula. *
+
+UTFPR-2017
+A
+33
+B
+28
+C
+40
+D
+20
+E
+26
+
+---------------------------------------------------------------------
+
+Questão 12
+Numa região de preservação ambiental, há 80 animais, entre leões e 
+leoas. Desse total de animais, 15% são leões. Um desastre ambiental 
+matou algumas leoas. Após esse fato, verificou-se que os leões 
+representam 20% dos animais. Assinale a alternativa que apresenta o 
+número de animais que restou na área de preservação, após o desastre. *
+
+UTFPR-2018
+A
+60
+B
+72
+C
+18
+D
+28
+E
+48
+
+-----------------------------------------------------------------------
+
+Questão 13
+Um supermercado anunciou uma promoção: levando 3 unidades da embalagem 
+de 1kg de sabão em pó, o cliente paga R$ 36,72. Considerando que o 
+preço de cada embalagem quando comprada por unidade é R$ 16,00, assinale 
+a alternativa que apresenta o percentual de desconto para quem adquire as 
+3 embalagens nessa promoção. *
+
+UTFPR-2018
+A
+12,5%
+B
+15%
+C
+17,5%
+D
+23,5%
+E
+25%
+
+----------------------------------------------------------------------
+
+Questão 14
+Quando afirmamos que para todo “a” existe um único “b”, queremos dizer: *
+
+UTFPR-2018
+A
+tem mais “a” do que “b”
+B
+pode haver “b” sem “a”.
+C
+para cada “b” corresponde um “a”
+D
+cada “a” fica com dois “b”
+E
+dois “b” correspondem ao mesmo “a”
+
+??????????????????
+
+-----------------------------------------------------------------
+
+Questão 15
+Determinada imagem quadrada com dimensões de 10 cm por 10 cm será 
+ampliada e terá a área triplicada, sem alterar a forma. As novas 
+dimensões da figura, em número inteiro, são aproximadamente: *
+
+UTFPR-2018
+A
+30 cm x 10 cm
+B
+17 cm x 17 cm
+C
+30 cm x 30 cm
+D
+20 cm x 20 cm
+E
+15 cm x 20 cm
+
+
+
+?????????????????????????
+
+---------------------------------------------------------------
+
+Questão 17
+Dizer que “João gosta de coxinha ou Maria não gosta de quibe” é 
+logicamente equivalente a dizer que: *
+
+UTFPR-2019
+A
+João gosta de coxinha se e somente se Maria não gosta de quibe.
+B
+se Maria gosta de quibe, então João gosta de coxinha.
+C
+João não gosta de coxinha e Maria gosta de quibe.
+D
+João gosta de coxinha, então Maria não gosta de quibe.
+E
+se João não gosta de coxinha, então Maria gosta de quibe
+
+----------------------------------------------------------------
+
+Questão 18
+Considere as premissas sobre os animais de um zoológico.
+– Algum animal é carnívoro.
+– Todo animal é adulto.
+Assim sendo, assinale a alternativa correta. *
+
+UTFPR-2019
+A
+Todo animal adulto é carnívoro.
+B
+Algum animal carnívoro não é adulto.
+C
+Todo animal carnívoro é adulto.
+D
+Algum animal não carnívoro não é adulto.
+E
+Todo animal carnívoro não é adulto.
+
+------------------------------------------------------
+
+Questão 19
+Considere a proposição: Marcelo é juiz e Mariane é advogada. 
+A alternativa que apresenta a negação dessa proposição é: *
+
+UTFPR-2019
+A
+Marcelo não é juiz e Mariane não é advogada.
+B
+Marcelo não é juiz se e somente se Mariane não for advogada.
+C
+Marcelo é juiz ou Mariane não é advogada.
+D
+Marcelo é juiz implica que Mariane não é advogada.
+E
+Marcelo não é juiz implica que Mariane não é advogada.
+
+---------------------------------------------------
+
+Questão 20
+Um curso de matemática tem 167 matriculados. Destes, 
+79 vão se matricular na disciplina de Geometria Analítica. 
+Todos que se matricularam em Geometria Analítica também vão 
+efetuar a matrícula na disciplina de Cálculo. Além destes, 
+53 alunos se matricularam somente na disciplina de Cálculo 
+e 9 se matricularam em Cálculo e Álgebra Linear, mas não em 
+Geometria Analítica. Sabendo que o total de alunos matriculados 
+na disciplina de Álgebra Linear é 52, o número de alunos 
+matriculados somente na disciplina de Álgebra Linear e o 
+número de alunos matriculados nas três disciplinas juntas 
+é, respectivamente: *
+
+UTFPR-2019
+A
+23 e 20.
+B
+26 e 17.
+C
+25 e 18.
+D
+24 e 19.
+E
+27 e 16.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

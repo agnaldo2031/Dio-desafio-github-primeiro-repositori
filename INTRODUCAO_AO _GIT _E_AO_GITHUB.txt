@@ -1,0 +1,178 @@
+
+
+		INTRODUCAO AO GIT E AO GITHUB
+
+
+- Entendendo o que é Git e sua importância
+
+- Git = serve para versonamento de versões de codigo.
+
+ - "software não e trabalho de um homem so".
+
+ - Beneficios de cologar o seu código no GitHub:
+
+1 - Controle de Versão,
+
+2 - Armazenamento em nuvem,
+
+3 - Trabalho em equipem
+
+4 - Melhorar seu código,
+
+5 - Reconhecimento.
+
+- Navegação básica no terminal & instalação.
+
+
+- GUI x CLI
+
+- O que vamos aprender
+
+- Mudar de pastas
+
+- Listar as pastas
+
+- Criar pastas
+
+- Deletar pastas/arquivos
+
+   Windows Unix
+ 
+    - cd - cd
+
+    - dir - ls
+
+    - mkdir - mkdir
+
+    - del / rmdir - rm-rf
+
+
+
+ - Para abrir o terminal aperta botão windows
+digitar cmd, vai abrir na pasta padrão do windows.
+
+ - dir ou ls e para listar todas as pastas do
+diretorios
+
+ - cd posibilida a navegaçãoe entres as pasta do
+diretorios. possibilitano a inda a uma pasta
+especifica
+
+ - Retroceder cd.. as pastas
+
+ - cls ou clear limpa a tela no terminal
+
+ - ctrl + L limpa a tela de diretorio no linx
+
+ - Tab completa os comandos
+
+ - mkdir e para criar uma pasta windows
+
+ - foi criada a pasta para trabalho workspace e um
+arquivo txt hello.
+
+- o comado del no windows apaga as pastas/arquivos
+e não o diretório
+
+
+- Realizando a instalção do GIT
+- Entendendo como o GIT funciona por baixo
+dos panos.
+
+-
+ 	- SHA1
+
+- A sigla SHA significa Secure Hash Algorithm
+(Algoritimo de hash Seguro), é um conjunto de
+funções hash criptográficas projetadas pela
+NSA (Agência de Segurança Nacional dos EUA).
+
+- A encriptação gera conjunto de characteres 
+indentificador de 40 dígitos
+
+ ex:
+
+echo "ola mundo" | openssl sha1
+(vai gerar um linha de código desta string)
+
+
+	- Objetos fundamentais / internos do Git
+
+
+	- BLOBS
+
+- Contém metadados ( que são o tamanho do arquivo 
+tipo do objeto etc...
+
+- Não guarda o nome do ar
+
+- Bloco basico da composição
+
+Exemplo:
+
+- echo "conteudo" | git hash-object --stdin
+
+- echo -e "blob 9\0conteudo" | openssl sha1
+
+	- TREES
+
+-  São arvores que amazena BLOBS
+
+-  Tem os nomes do arquivos
+
+- Contém metadados
+
+- Contém o sha1 dos arquivos
+
+- Guarda os nomes dos arquivos
+
+- E respondsavel por motar toda a estrutura de onde estão 
+localizados esses aqruivos 
+ 
+- Pode pontar para BOLBs que são "arquivos" ou outra 
+arvores.
+
+- As arvores a ponta para os sha1 dos BLOBs que tem ali 
+sha1 das arvores
+
+	- COMMITS
+
+- tambem tem sha1 que modifica quando ha alteração nos
+BLOs TREE E Commit parente apontar ou relacionados assim
+toda mudança na estrutura vai gerar um novo sha1
+  
+
+	- Sistema distribuído e seguro
+
+- E seguro por que o código e distribuido ou seja para perde 
+o código tem qeu haver um desastre com todas as pessoas que 
+tem o código. 
+
+	- Chaves SSH e Tokens
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
